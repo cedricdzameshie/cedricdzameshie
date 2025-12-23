@@ -55,5 +55,5 @@ Experienced in problem-solving, UI development, and translating real-world needs
 ---
 
 ## 📫 Connect
-- Portfolio: https://shogunfrontend.github.io/
+
 - GitHub: https://github.com/cedricdzameshie
